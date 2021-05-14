@@ -4,7 +4,7 @@
 - frontend (reactjs)
 - backend (nodejs, postgresql, SQL)
 - AWS (S3, EC2, RDS)
-- machine learning (scikit-learn, vader)
+- machine learning (sklearn)
 
 ### languages:
 - python
