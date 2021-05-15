@@ -1,4 +1,5 @@
 ## roger repo 
+- [kaggle](https://www.kaggle.com/rogerho)
 
 ### current interests:
 - frontend (reactjs)
