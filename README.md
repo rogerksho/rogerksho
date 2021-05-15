@@ -18,6 +18,9 @@
 - git
 - SOLIDWORKS (CSWA certified)
 
+### CURRENT PROJECT:
+- [crypto-social-model](https://github.com/rogerksho/crypto-social-model)
+
 
 <!---
 rogerksho/rogerksho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
