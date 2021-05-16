@@ -4,7 +4,6 @@
 ### current interests:
 - frontend (reactjs)
 - backend (nodejs, postgresql, SQL)
-- AWS (S3, EC2, RDS)
 - machine learning (sklearn)
 
 ### languages:
@@ -16,8 +15,10 @@
 
 ### others:
 - jira
-- git
+- git (!!!)
 - SOLIDWORKS (CSWA certified)
+- AWS (S3, EC2, RDS)
+- docker
 
 ### CURRENT PROJECT:
 - [crypto-social-model](https://github.com/rogerksho/crypto-social-model)
