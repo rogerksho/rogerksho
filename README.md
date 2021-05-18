@@ -2,15 +2,15 @@
 - [kaggle](https://www.kaggle.com/rogerho)
 
 ### current interests:
-- frontend (reactjs)
-- backend (nodejs, postgresql, SQL)
+- frontend (reactjs, nextjs)
+- backend (nodejs, postgresql, SQL, flask)
 - machine learning (sklearn)
 
 ### languages:
 - python
 - c++
 - javascript
-- sql
+- SQL
 - MATLAB
 
 ### others:
