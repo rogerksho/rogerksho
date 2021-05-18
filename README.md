@@ -15,7 +15,7 @@
 
 ### others:
 - jira
-- git (!!!)
+- git (😲)
 - SOLIDWORKS (CSWA certified)
 - AWS (S3, EC2, RDS)
 - docker
