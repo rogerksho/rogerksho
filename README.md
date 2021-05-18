@@ -4,7 +4,7 @@
 ### current interests:
 - frontend (reactjs, nextjs)
 - backend (nodejs, postgresql, SQL, flask)
-- machine learning (sklearn)
+- data science/machine learning (sklearn, numpy, pandas)
 
 ### languages:
 - python
