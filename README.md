@@ -20,8 +20,9 @@
 - AWS (S3, EC2, RDS)
 - docker
 
-### CURRENT PROJECT:
+### current projects:
 - [crypto-social-model](https://github.com/rogerksho/crypto-social-model)
+- [crypto-api](https://github.com/rogerksho/cryptoracle-api)
 
 
 <!---
