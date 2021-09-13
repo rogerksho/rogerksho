@@ -23,6 +23,7 @@
 ### current projects:
 - [crypto-social-model](https://github.com/rogerksho/crypto-social-model)
 - [cryptoracle-api](https://github.com/rogerksho/cryptoracle-api)
+- [quant-project](https://github.com/rogerksho/quant-project)
 
 
 <!---
