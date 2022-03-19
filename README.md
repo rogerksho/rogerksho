@@ -8,7 +8,7 @@
 
 ### languages:
 - python
-- c++
+- C++
 - javascript
 - SQL
 - MATLAB
@@ -17,6 +17,8 @@
 - jira
 - git (😲)
 - SOLIDWORKS (CSWA certified)
+- MATLAB (Simulink)
+- LabVIEW, MyRIO
 - AWS (S3, EC2, RDS)
 - docker
 
