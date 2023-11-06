@@ -1,5 +1,5 @@
 ## roger website
--[portfolio](https://rogerksho.github.io/)
+- [portfolio](https://rogerksho.github.io/)
 
 ## roger repo 
 - [kaggle](https://www.kaggle.com/rogerho)
